@@ -1,0 +1,15 @@
+{
+  "name": "screenshot-diff",
+  "version": "0.0.1",
+  "author": "miraoto <miraoto@gmail.com>",
+  "engines": {
+    "node": ">=8"
+  },
+  "dependencies": {
+    "pixel-diff": "^1.0.1",
+    "pngjs": "^3.3.3",
+    "puppeteer": "^1.8.0",
+    "resize-img": "^1.1.2",
+    "yargs": "^11.0.0"
+  }
+}
